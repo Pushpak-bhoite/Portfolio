@@ -1,6 +1,6 @@
 import React from 'react'
 import { PROFILE } from "../constants"
-import profilePic from "../assets/robertButcher1.jpg"
+import profilePic from "../assets/Pushpak_PortFolioIMG2.jpg"
 import { motion } from 'framer-motion'
 
 // import profilePic from "../assets/Pushpak_PortFolioIMG2.jpg"
